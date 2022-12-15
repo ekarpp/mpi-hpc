@@ -1,0 +1,16 @@
+STRONG
+16777216 elements in 2.697596 s with 1 tasks
+16777216 elements in 2.059478 s with 2 tasks
+16777216 elements in 1.215349 s with 4 tasks
+16777216 elements in 1.285817 s with 8 tasks
+16777216 elements in 1.162836 s with 12 tasks
+16777216 elements in 1.174318 s with 16 tasks
+16777216 elements in 1.171640 s with 20 tasks
+16777216 elements in 1.032344 s with 24 tasks
+
+WEAK
+8388608 elements in 1.264179 s with 1 tasks
+16777216 elements in 2.001954 s with 2 tasks
+33554432 elements in 4.066329 s with 4 tasks
+67108864 elements in 8.398218 s with 8 tasks
+134217728 elements in 14.364923 s with 16 tasks

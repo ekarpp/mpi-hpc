@@ -1,0 +1,25 @@
+STRONG
+8192 x 8192 matrix in 6.7439 s with 1 proc
+verification in 0.7395 s
+8192 x 8192 matrix in 4.9957 s with 2 proc
+verification in 0.7009 s
+8192 x 8192 matrix in 1.9505 s with 4 proc
+verification in 0.7069 s
+8192 x 8192 matrix in 1.7579 s with 8 proc
+verification in 0.7007 s
+8192 x 8192 matrix in 1.3354 s with 12 proc
+verification in 0.5841 s
+8192 x 8192 matrix in 1.7807 s with 16 proc
+verification in 0.7087 s
+8192 x 8192 matrix in 1.0207 s with 20 proc
+verification in 0.6005 s
+8192 x 8192 matrix in 1.1153 s with 24 proc
+verification in 0.6367 s
+
+WEAK
+8192 x 8192 matrix in 6.7134 s with 1 proc
+verification in 0.7458 s
+16384 x 16384 matrix in 20.6428 s with 4 proc
+verification in 3.1958 s
+32768 x 32768 matrix in 38.1632 s with 16 proc
+verification in 16.3384 s
