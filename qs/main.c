@@ -159,13 +159,13 @@ int main(int argc, char **argv)
     /* compute degrees of nodes for the b tree */
     int child_left = nprocs - 1;
     int idx = 0;
-    while (child_left > 0)
+    while (child_left > 1)
     {
-        const int childs = MIN(child_left, 2);
-        index[idx] = childs;
-        child_left -= childs;
+        index[idx] = 2;
+        child_left -= 2;
         idx++;
     }
+    index[idx] = child_left;
     /* mpi wants a "rolling sum".
      * index calloced to all zeros, we good here. */
     for (int i = 1; i < nprocs; i++)
